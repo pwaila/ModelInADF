@@ -5,8 +5,8 @@
 		"annotations": [],
 		"type": "AzureBlobStorage",
 		"typeProperties": {
-			"connectionString": "DefaultEndpointsProtocol=https;AccountName=predictionblobstorage;EndpointSuffix=core.windows.net;",
-			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIlBSRURJQ1RJT05EQVRBRkFDVE9SWV83NWI3YTZhOC01OTVkLTQ2M2MtYjBkMC03ZDVhODE0ZTRhNzIiDQp9"
+			"connectionString": "",
+			"encryptedCredential": ""
 		}
 	}
 }
